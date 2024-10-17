@@ -1,0 +1,1 @@
+"Wallpaper" is a directory used to conduct tests with the scripts
